@@ -1,0 +1,14 @@
+C:\Users\guilh\Documents\Projects\NotaXMLReader\bin\Debug\net8.0\NotaXMLReader.exe
+C:\Users\guilh\Documents\Projects\NotaXMLReader\bin\Debug\net8.0\NotaXMLReader.deps.json
+C:\Users\guilh\Documents\Projects\NotaXMLReader\bin\Debug\net8.0\NotaXMLReader.runtimeconfig.json
+C:\Users\guilh\Documents\Projects\NotaXMLReader\bin\Debug\net8.0\NotaXMLReader.dll
+C:\Users\guilh\Documents\Projects\NotaXMLReader\bin\Debug\net8.0\NotaXMLReader.pdb
+C:\Users\guilh\Documents\Projects\NotaXMLReader\obj\Debug\net8.0\NotaXMLReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Projects\NotaXMLReader\obj\Debug\net8.0\NotaXMLReader.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projects\NotaXMLReader\obj\Debug\net8.0\NotaXMLReader.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projects\NotaXMLReader\obj\Debug\net8.0\NotaXMLReader.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projects\NotaXMLReader\obj\Debug\net8.0\NotaXMLReader.dll
+C:\Users\guilh\Documents\Projects\NotaXMLReader\obj\Debug\net8.0\refint\NotaXMLReader.dll
+C:\Users\guilh\Documents\Projects\NotaXMLReader\obj\Debug\net8.0\NotaXMLReader.pdb
+C:\Users\guilh\Documents\Projects\NotaXMLReader\obj\Debug\net8.0\NotaXMLReader.genruntimeconfig.cache
+C:\Users\guilh\Documents\Projects\NotaXMLReader\obj\Debug\net8.0\ref\NotaXMLReader.dll
